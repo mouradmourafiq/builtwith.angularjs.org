@@ -825,18 +825,6 @@
         "jQuery","Production","Open Source","AngularJS",
         "CSS3","Twitter BootStrap", "underscore.js", "jQueryUI", "jPlayer"
       ]
-    },
-    {
-      "name": "angular_sudoku",
-      "thumb": "angular_sudoku/thumb.png",
-      "desc": "Sudoku game built with angular.js",
-      "url": "http://mourafiq.com/sudoku/",
-      "submitter": "mouradmourafiq",
-      "submissionDate": "2013-01-22",
-      "tags": [
-        "jQuery","Sudoku","Open Source","AngularJS",
-        "CSS3","Twitter BootStrap"
-      ]
     }
   ]
 }
